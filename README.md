@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on project **User Registration System**
 
-- 🌱 I’m currently learning **java backend**
+- 🌱 Java Backend Developer with ~2 years of experience in building scalable Spring Boot applications and REST APIs. Skilled in secure 
+backend development using Spring Security and JWT, and performance optimization using MySQL. Experienced in handling enterprise
+level systems in the energy domain at TCS, with a strong foundation in problem-solving.
 
 - 👨‍💻 All of my projects are available at [https://ankitportfoliotint.netlify.app/](https://ankitportfoliotint.netlify.app/)
 
